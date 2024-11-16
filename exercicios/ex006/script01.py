@@ -1,6 +1,6 @@
 frase = 'Curso em Vídeo Python'
 
-# print(frase[3]) = 3 ->
+# print(frase[3]) = s ->
 # O resultado traz a terceira letra da frase, iniciando a contagem do 0.
 
 # print(frase[0:13]) = Curso em Víde ->
@@ -19,7 +19,7 @@ frase = 'Curso em Vídeo Python'
 # O resultado traz as letras da frase da primeira até a última pulando de 2 em 2.
 
 # print(frase.count('o')) = 3 ->
-# O resultdo traz quantas vezes aparece a letra 'o' na frase. OBS: se for colocado o 'o' maiúsculo, o resultado será 0.
+# O resultado traz quantas vezes aparece a letra 'o' na frase. OBS: se for colocado o 'o' maiúsculo, o resultado será 0.
 
 # print(frase.upper()) = CURSO EM VÍDEO PYTHON ->
 # O resultado traz a modificação das letras que estão em minúscula para maiúscula.
