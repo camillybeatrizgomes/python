@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="30fba6be-fce6-4ac1-82ff-655ceec9ac0e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../desafios/desafio078.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../desafios/desafio079.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../desafios/desafio080.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../desafios/desafio081.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../desafios/desafio082.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../desafios/desafio083.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../desafios/desafio084.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../desafios/desafio085.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../desafios/desafio086.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../desafios/desafio087.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../desafios/desafio088.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../desafios/desafio089.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../desafios/desafio090.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../desafios/desafio091.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../desafios/desafio092.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../desafios/desafio093.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../desafios/desafio094.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../desafios/desafio095.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../desafios/desafio096.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../desafios/desafio097.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../desafios/desafio098.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../desafios/desafio099.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../desafios/desafio100.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../desafios/desafio101.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../desafios/desafio102.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../desafios/desafio103.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../desafios/desafio104.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../desafios/desafio105.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../desafios/desafio106.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercicios/ex014/script01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercicios/ex014/script02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercicios/ex014/script03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercicios/ex014/script04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercicios/ex014/script05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercicios/ex015/script01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercicios/ex015/script02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercicios/ex015/script03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercicios/ex016/script01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercicios/ex016/script02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercicios/ex016/script03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercicios/ex016/script04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercicios/ex017/script01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercicios/ex017/script02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercicios/ex017/script03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercicios/ex017/script04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercicios/ex017/script05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercicios/ex017/script06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercicios/ex018/script01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercicios/ex018/script02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercicios/ex018/script03.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2vuPJ0jyYWGXIneVGXhxSNfqa7k" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30fba6be-fce6-4ac1-82ff-655ceec9ac0e" name="Changes" comment="" />
+      <created>1744991910009</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744991910009</updated>
+    </task>
+    <servers />
+  </component>
+</project>
